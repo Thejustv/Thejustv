@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Thejustv
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning front-end 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning Reactjs 
 - 📫 How to reach me thejustv22@gmail.com
 
 <!---
